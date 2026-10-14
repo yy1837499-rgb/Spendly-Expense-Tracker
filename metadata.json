@@ -1,0 +1,6 @@
+{
+  "name": "Spendly Expense Tracker",
+  "description": "Smart, intuitive personal expense tracking with real-time budget forecasting, interactive charts, and local data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
